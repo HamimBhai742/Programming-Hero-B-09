@@ -1,0 +1,47 @@
+h1{
+    color: blueviolet;
+    background-color: rgb(255, 192, 2);
+    text-align: center;
+}
+.P1{
+    color: rgb(255, 0, 230);
+    font-size:larger;
+}
+.List{
+    color: rgb(25, 32, 167);
+    font-weight: bold;
+    font-size: medium;
+}
+.List1{
+    color: rgb(74, 145, 4);
+    font-size: large;
+    font-style: italic;
+    font-weight: 800;
+}
+#Form{
+    margin-top: -36px;
+    margin-left: 235px;
+    
+}
+.op1{
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sl1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: medium;
+}
+.IMG{
+    height: 250px;
+    width: 300px;
+    margin-left: 5px;
+}
+.A1{
+    margin-left: 5px;
+}
+#body{
+    padding-left: 10px;
+}

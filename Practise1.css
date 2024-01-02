@@ -1,0 +1,6 @@
+.sp{
+     border: 2px solid violet;
+    padding: 2px;
+    display: inline-block; 
+    box-shadow: 20px 10px 20px violet;
+}
